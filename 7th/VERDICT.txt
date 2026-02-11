@@ -1,0 +1,16 @@
+SPMS: Mahdi Hussain Hamade 7th grade
+
+MP1{
+English 7 = 89
+Science 7 = 92 [01]
+Math 7 = 92
+History 7 = 83
+Art 7 = N/A
+Art Thru Tech&Design = N/A
+Health 7 = N/A
+Physical Education = 95
+Spanish 7 = N/A
+
+Comments Legend:
+[01] = Outstanding Achievement
+}
