@@ -1,4 +1,4 @@
-SPMS: Mahdi Hussain Hamade 7th grade
+SPMS: Mahdi Hussein Hamade 7th Grade
 
 MP1{
 English 7 = 89
@@ -6,18 +6,36 @@ Science 7 = 92 [01]
 Math 7 = 92
 History 7 = 83
 Art 7 = N/A
-Art Thru Tech&Design = N/A
+Art Thru Tech & Design = N/A
 Health 7 = N/A
 Physical Education = 95
 Spanish 7 = N/A
 
 Comments Legend:
 [01] = Outstanding Achievement
+
+Status: Honors
 }
-MP2{}
+
+MP2{
+English 7 = 87 [02]
+Science 7 = 89
+Math 7 = 88
+History 7 = 79 [03]
+Art 7 = 78
+Art Thru Tech & Design = N/A
+Health 7 = 93
+Physical Education = 83
+Spanish 7 = N/A
+
+Comments Legend:
+[02] = Good Skills
+[03] = Inconsistent Work Pattern
+
+Status: Basic
+}
 
 MP3{}
-
 MP4{}
 
-Reflection:
+Self-Reflection:
